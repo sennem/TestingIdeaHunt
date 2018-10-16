@@ -1,2 +1,0 @@
-# TestingIdeaHunt
-Created with CodeSandbox
